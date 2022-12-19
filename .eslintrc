@@ -24,6 +24,7 @@
     "react-hooks/exhaustive-deps": "warn",
     "arrow-body-style": [0],
     "prefer-arrow-callback": [0],
-    "react/function-component-definition": "off"
+    "react/function-component-definition": "off",
+    "no-unused-vars": "warn"
   }
 }
